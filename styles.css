@@ -1,0 +1,30 @@
+body {
+    font-family: "Garamond";
+    display: flex;
+    flex-direction: column;
+}
+
+.top-heading {
+    text-align: center;
+    border-bottom: 3px solid black;
+}
+
+.components {
+    padding: 50px
+}
+
+.section-content {
+    display: block;
+    color: black;
+}
+
+.section-container {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 0rem;
+}
+
+#experience-header {
+    padding-right: 40px;
+}
